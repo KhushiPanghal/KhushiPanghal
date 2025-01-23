@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhushiPanghal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning machine learning
-  - 📫 How to reach me khushipanghal08@gmail.com
+- 📫 How to reach me khushipanghal08@gmail.com
   
 
 <!---
